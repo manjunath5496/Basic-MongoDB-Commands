@@ -234,105 +234,90 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(1).pdf" style="text-decoration:none;">Modeling and Querying Data in MongoDB</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(2).pdf" style="text-decoration:none;">MongoDB Operations Best Practices</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(3).pdf" style="text-decoration:none;">Automatic Mapping of MySQL Databases to NoSQL MongoDB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(4).pdf" style="text-decoration:none;">Using MongoDB for Social Networking Website</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(5).pdf" style="text-decoration:none;">performance evaluation of MySQL and MongoDB</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(6).pdf" style="text-decoration:none;">CRUD Operations in MongoDB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(7).pdf" style="text-decoration:none;">A Mapping-based Method to Query MongoDB Documents with SPARQL</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(8).pdf" style="text-decoration:none;"> A Comparative Study: MongoDB vs. MySQL </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(9).pdf" style="text-decoration:none;"A Comparative Study: MongoDB vs
+MySQL</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(10).pdf" style="text-decoration:none;">Insights from Student Solutions to MongoDB Homework Problems</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(11).pdf" style="text-decoration:none;">Security Analysis of MongoDB and its Comparison with Relational Databases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(12).pdf" style="text-decoration:none;">Assessing the vulnerabilities and securing MongoDB and Cassandra databases</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(13).pdf" style="text-decoration:none;">MongoDB on AWS: 
+Guidelines and Best Practices</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(14).pdf" style="text-decoration:none;">Expressivity and Complexity of MongoDB Queries</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(15).pdf" style="text-decoration:none;">A Formal Presentation of MongoDB (Extended Version)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(16).pdf" style="text-decoration:none;">Comparative Analysis of MongoDB Deployments in Diverse Application Areas</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(17).pdf" style="text-decoration:none;">Analysis on Database Security Model Against NOSQL Injection</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(18).pdf" style="text-decoration:none;">A review of comparison between NoSQL Databases: MongoDB and CouchDB</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(19).pdf" style="text-decoration:none;">A Study on Join Operations in MongoDB Preserving Collections Data Models for Future Internet Applications</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(20).pdf" style="text-decoration:none;">The benefits and costs of writing a
-POSIX kernel in a high-level language</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(20).pdf" style="text-decoration:none;">Getting Started with Amazon DocumentDB (with MongoDB Compatibility)</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(21).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX Kernel in a High-Level Language</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(22).pdf" style="text-decoration:none;">LLVM: A Compilation Framework for
-Lifelong Program Analysis and Transformation</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(23).pdf" style="text-decoration:none;">The Benefits and Costs of Writing a POSIX
-Kernel in a High-Level Language [Cody Cutler]</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(21).pdf" style="text-decoration:none;">Dell EMC PowerStore: MongoDB Solution
+Guide</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(22).pdf" style="text-decoration:none;">MongoDB with Privacy Access Control</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(23).pdf" style="text-decoration:none;">A comprehensive comparison of SQL and MongoDB databases</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(24).pdf" style="text-decoration:none;">Separating Web Applications from User Data Storage with BSTORE</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(24).pdf" style="text-decoration:none;">An Analysis Of Query Performance: Mongodb N Sql</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(25).pdf" style="text-decoration:none;">A Methodical Study of Web Crawler</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(26).pdf" style="text-decoration:none;">Certifying a File System Using
-Crash Hoare Logic: Correctness in the Presence of Crashes</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(27).pdf" style="text-decoration:none;">A Differential Approach to
-Undefined Behavior Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(25).pdf" style="text-decoration:none;">MongoDB and NoSQL Databases</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(26).pdf" style="text-decoration:none;">Learning MongoDB</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(27).pdf" style="text-decoration:none;">MongoDB Tutorial for Beginners</a></li>
    
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(28).pdf" style="text-decoration:none;">Reducing Pause Times with Clustered Collection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(28).pdf" style="text-decoration:none;">The Little MongoDB Book</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(29).pdf" style="text-decoration:none;">Reducing Pause Times With Clustered Collection [Cody Cutler] </a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(29).pdf" style="text-decoration:none;">MongoDB Architecture Guide</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(30).pdf" style="text-decoration:none;">Certifying Program Execution with Secure Processors</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(30).pdf" style="text-decoration:none;">NoSQL Databases: MongoDB vs Cassandra</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(31).pdf" style="text-decoration:none;">Providing a Shared File System in the Hare
-POSIX Multikernel</a></li> 
-    <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(32).pdf" style="text-decoration:none;">Linux kernel vulnerabilities:
-State-of-the-art defenses and open problems</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(31).pdf" style="text-decoration:none;">MongoDB – a comparison with NoSQL databases</a></li> 
+    <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(32).pdf" style="text-decoration:none;">MongoDB - Cheat Sheet</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(33).pdf" style="text-decoration:none;">Robust and Efficient Data Management for a Distributed Hash Table</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(33).pdf" style="text-decoration:none;">Analysis
+of NoSQL Databases: Mongodb, HBase, Neo4J</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(34).pdf" style="text-decoration:none;">Mongodb Databases In Big Data
+Applications In Transportation Industry</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(35).pdf" style="text-decoration:none;">Optimized Infrastructure for Big Data Analytics on MongoDB</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(36).pdf" style="text-decoration:none;">Tunable Consistency in MongoDB</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(37).pdf" style="text-decoration:none;">An Analysis and Overview of MongoDB Security</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(38).pdf" style="text-decoration:none;">MapReduce Performance in MongoDB Sharded Collections</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(39).pdf" style="text-decoration:none;">Formalizing MongoDB Queries</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(40).pdf" style="text-decoration:none;">M2Onto: an Approach and a Tool to Learn OWL Ontology from MongoDB Database</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(41).pdf" style="text-decoration:none;">Performance Benchmark
+Postgresql / Mongodb</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(42).pdf" style="text-decoration:none;">Security Analysis of MongoDB</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(43).pdf" style="text-decoration:none;">The Application of
+NoSQL MongoDB in Developing the EPR System for Managing Human Resources</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(44).pdf" style="text-decoration:none;">Proposed Architecture of MongoDB-Hive Integration</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(45).pdf" style="text-decoration:none;">An Application of MongoDB to Enterprise System Manipulating Enormous Data</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(46).pdf" style="text-decoration:none;">A Novel Approach of Using MongoDB for Big Data Analytics</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(47).pdf" style="text-decoration:none;">From Relational Model to Rich Document Data Models - Best Practices Using MongoDB</a></li>
 </ul>
 
 

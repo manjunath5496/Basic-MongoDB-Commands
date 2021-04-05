@@ -64,3 +64,35 @@ db.dropDatabase()
 db.createCollection("Employee")
 ```
 ----------------------------------------
+### **Description:**
+> ***print a list of all collections created.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+show collections
+```
+----------------------------------------
+
+### **Description:**
+> ***drop the collection "Employee".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.drop()
+```
+----------------------------------------
+
+### **Description:**
+> ***insert document in collection "Employee".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.insert({name: 'Raj', address: 'Bangalore'})
+```
+----------------------------------------

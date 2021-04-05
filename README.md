@@ -244,8 +244,8 @@
 <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(6).pdf" style="text-decoration:none;">CRUD Operations in MongoDB</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(7).pdf" style="text-decoration:none;">A Mapping-based Method to Query MongoDB Documents with SPARQL</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(8).pdf" style="text-decoration:none;"> A Comparative Study: MongoDB vs. MySQL </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(9).pdf" style="text-decoration:none;>"A Comparative Study: MongoDB vs
+ <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(8).pdf" style="text-decoration:none;"> A Review on Various Aspects of MongoDb Databases </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Basic-MongoDB-Commands/blob/master/m(9).pdf" style="text-decoration:none;">A Comparative Study: MongoDB vs
 MySQL</a></li>
   
    

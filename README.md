@@ -32,3 +32,35 @@ show dbs
 use myTestDB
 ```
 ----------------------------------------
+### **Description:**
+> ***know your current selected database.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db
+```
+----------------------------------------
+
+### **Description:**
+> ***drop the current selected database.***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.dropDatabase()
+```
+----------------------------------------
+
+### **Description:**
+> ***create new collection "Employee".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.createCollection("Employee")
+```
+----------------------------------------

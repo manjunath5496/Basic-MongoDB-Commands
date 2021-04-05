@@ -96,3 +96,68 @@ db.Employee.drop()
 db.Employee.insert({name: 'Raj', address: 'Bangalore'})
 ```
 ----------------------------------------
+### **Description:**
+> ***list the documents in collection "Employee".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.find()
+```
+<strong>Output: </strong>
+
+```MongoDB
+{ "_id" : ObjectId("60658a0dbe02cfa1d386ab52"), "name" : "Raj", "address" : "Bangalore" }
+```
+
+----------------------------------------
+
+### **Description:**
+> ***update the document in collection "Employee".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.update({'name' : 'Raj'}, {$set: {'name' : 'Albert'}})
+```
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.find()
+```
+<strong>Output: </strong>
+
+```MongoDB
+{ "_id" : ObjectId("60658a0dbe02cfa1d386ab52"), "name" : "Albert", "address" : "Bangalore" }
+```
+
+
+----------------------------------------
+
+### **Description:**
+> ***save document in collection "Employee".***
+---------------------------------------
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.save({"_id": new ObjectId("60658a0dbe02cfa1d386ab53"), name: "Newton", address: "Delhi"});
+```
+
+
+<strong>Command: </strong>
+
+```MongoDB
+db.Employee.find()
+```
+<strong>Output: </strong>
+
+```MongoDB
+{ "_id" : ObjectId("60658a0dbe02cfa1d386ab52"), "name" : "Albert", "address" : "Bangalore" }
+{ "_id" : ObjectId("60658a0dbe02cfa1d386ab53"), "name" : "Newton", "address" : "Delhi" }
+
+```
+----------------------------------------
